@@ -12,7 +12,7 @@ This repository contains the research report and mathematical write-up for my Un
 - **My Primary Contributions:** Investigated analytic properties of the rational Zeta function, derived the Prime Polynomial Theorem with explicit error bounds, and analyzed characteristic-dependent variations of the Lifting the Exponent (LTE) lemma.
 
 ## 📄 Project Documentation
-- [📄 Read Full UROP Research Report (PDF)](urop_report.pdf) *(Draft / Final upload in progress)*
+- [📄 Read Full UROP Research Report (PDF)](Project_Number_Theory_on_functional_field__my_own_(1).pdf) *(Draft / Final upload in progress)*
 
 ## 📐 Key Topics & Theoretical Results
 - **Function Field Analogues:** Developed arithmetic properties of polynomial rings over finite fields $\mathbb{F}_q[t]$ parallel to rational integers $\mathbb{Z}$.
